@@ -1,6 +1,14 @@
 const pkg = require('./package')
 module.exports = {
   mode: 'universal',
+  // target: 'static',
+  // generate: {
+  //   routes: [
+  //     '/posts/balut',
+  //     '/posts/whereIsIt',
+  //     '/posts/how'
+  //   ]
+  // },
   /*
   ** Headers of the page
   */
