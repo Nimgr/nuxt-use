@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-fundamentals
+        Настольный теннис в Калмыкии
       </h1>
       <h2 class="subtitle">
-        My gnarly Nuxt.js project
+        Новости, фотографии, интервью и различные истории связанные с развитием настольного тенниса в Калмыкии
       </h2>
       <div class="links">
         <nuxt-link

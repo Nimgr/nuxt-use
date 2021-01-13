@@ -2,10 +2,10 @@
   <nav class="nav">
     <div class="logo">
       <nuxt-link :to="{name: 'index'}" class="logo text-lg">
-        Nuxt Fundamentals
+        Блог Игоря Немгирова
       </nuxt-link>
 
-      <span class="subheader">A Vue School course</span>
+      <span class="subheader">И не только</span>
     </div>
   </nav>
 </template>

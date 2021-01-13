@@ -1,3 +1,3 @@
 <template>
-  <img src="https://vueschool.io/img/favicons/apple-touch-icon.png" alt="the logo">
+  <img src="../assets/images/FlagRK.png" alt="the logo">
 </template>
